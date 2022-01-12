@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+body {
+    background: lightblue url("img_tree.gif") no-repeat fixed center;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    margin-top: 10px;
+}
+
+.header-things{
+    display: flex;
+    align-items: center;
+}
+
+.header-things h2{
+    margin-left: 67%;
+    color: rgb(145, 145, 145);
+}
+
+.menu{
+    display: flex;
+}
+
+.menu-things{
+    display: flex;
+    align-items: center;
+}
+
+.menu-things img{
+    max-width: 300px;
+}
+
+.table1 {
+  margin-top: 5%;
+  display: flex;
+  : center;
+}
+.register {
+  display: flex;
+}
+
+a {
+text-decoration: none;
+}
